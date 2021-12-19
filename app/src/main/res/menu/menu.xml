@@ -14,4 +14,13 @@
         android:id="@+id/action_tasks"
         android:title="@string/action_tasks"
         app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_signup"
+        android:title="@string/action_signup"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_signin"
+        android:title="@string/action_sigin"
+        app:showAsAction="ifRoom" />
+
 </menu>
